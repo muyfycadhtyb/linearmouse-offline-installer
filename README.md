@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Mouse+Customization-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 LinearMouse Free Installer** — LinearMouse is a free, open-source macOS mouse enhancement tool that provides linear cursor movement, scroll speed customization, button remapping, and pointer acceleration control — giving precise control over how any mouse behaves on macOS.. Works without internet access, no account required. Full offline installation.
+**💻 LinearMouse Free Installer** — LinearMouse is a free, open-source macOS mouse enhancement tool that provides linear cursor movement, scroll speed customization, button remapping, and pointer acceleration control — giving precise control over how any mouse behaves on macOS. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -121,7 +121,7 @@ LinearMouse is a free, open-source macOS mouse enhancement tool that provides li
 
 ---
 
-**LinearMouse Free Installer** — LinearMouse is a free, open-source macOS mouse enhancement tool that provides linear cursor movement, scroll speed customization, button remapping, and pointer acceleration control — giving precise control over how any mouse behaves on macOS.. Install without internet connection today!
+**LinearMouse Free Installer** — LinearMouse is a free, open-source macOS mouse enhancement tool that provides linear cursor movement, scroll speed customization, button remapping, and pointer acceleration control — giving precise control over how any mouse behaves on macOS. Install without internet connection today!
 
 <div align="center">
 
